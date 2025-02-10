@@ -2,7 +2,7 @@ package org.ies.zoo.model;
 
 import java.util.Objects;
 
-abstract class Animal {
+public abstract class Animal {
 
     protected String species;
     protected int age;
